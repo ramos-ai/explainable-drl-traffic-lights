@@ -1,4 +1,4 @@
-# Traffic Light Control Baselines
+# Explainable DeepRL Traffic Lights
 
 This repo provides OpenAI Gym compatible environments for traffic light control scenario and a bunch of baseline methods. 
 
